@@ -1,4 +1,4 @@
-##💫Hakkımda:
+# Hakkımda:
 ### Merhaba👋, Ben Berkay Özenel.
 Liseden beri bilişim teknolojileri ve yazılıma ilgi duyuyorum. Bu sebeple kendimi geliştiriyorum. Pamukkale Üniversitesi Yönetim Bilişim Sistemleri bölümünde okumaktayım. Yeni diller ve yeni projelerle eğitimime devam ediyorum.
 
