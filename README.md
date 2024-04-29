@@ -1,11 +1,10 @@
-# 💫Hakkımda:
+# 🔗Hakkımda:
 ### Merhaba, 
 ### Ben Berkay Özenel.
-Liseden beri bilişim teknolojileri ve yazılıma ilgi duyuyorum. Bu sebeple kendimi geliştiriyorum. Pamukkale Üniversitesi Yönetim Bilişim Sistemleri bölümünde okumaktayım. Yeni diller ve yeni projelerle eğitimime devam ediyorum.
+Pamukkale Üniversitesi Yönetim Bilişim Sistemleri bölümü 2.Sınıf öğrencisiyim. Şuanda Web uygulamaların arka yüz gelişimi, veritabanı ve sunucu yönetimiyle ilgileniyorum. Teorik olarak aldığım eğitimlerin yanında pratik olarak da kendi projelerim üzerinde çalışıp gelişimime hız katmaya çalışıyorum. Eğitim hayatım süresince ve sonrasında gelişimime her zaman devam edip çalışkan, disiplinli ve başarılı bir Back-End geliştirici olmak istiyorum.
 
-### 💻Teknoloji ve Deneyimler:
-C / C#/ JS / HTML / CSS
+### 💻Kullandığım Teknolojiler
+HTML / CSS / JS / C#/ ASP.Net Core / PHP / Laravel 
 
 ### 🌐Sosyal Medya:
-
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/brkyznl/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='instagram' height='40'>](https://www.instagram.com/brkyznl/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg' alt='twitter' height='40'>](https://twitter.com/brkyznl)  
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/brkyznl/) 
