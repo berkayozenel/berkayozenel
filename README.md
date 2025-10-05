@@ -10,7 +10,7 @@ Pamukkale Üniversitesi Yönetim Bilişim Sistemleri (YBS) 4. sınıf öğrencis
 | **Back-End** | PHP, **Laravel**, ASP.Net Core |
 | **Veritabanı & Sunucu** | MySQL, MSSQL, RESTful API |
 | **Yapay Zeka & Veri Bilimi** | **Python**, Makine Öğrenmesi, Derin Öğrenme, Veri Analizi |
-| **ERP** | Logo Netsis ERP | UYUMSOFT |
+| **ERP** | Logo Netsis ERP, UYUMSOFT |
 | **Ön Yüz (Temel)** | HTML, CSS, JavaScript |
 
 ### 🚀 Güncel Odak Noktaları ve Projeler
